@@ -1,4 +1,4 @@
-### Offline Client Download: [Offline_Download_Version.html](https://github.com/FireDevilX/eaglercraft/raw/main/stable-download/Offline_Download_Version.html)
+### **Offline Client Download: [Offline_Download_Version.html](https://github.com/FireDevilX/eaglercraft/raw/main/stable-download/Offline_Download_Version.html)**
 
 
 # This repository will be deleted imminently
